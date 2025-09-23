@@ -1,6 +1,13 @@
 package javaprogramming;
 
 import java.util.Scanner;
+// Kaden Breinholt, Tues. Sep. 23rd, Lab 3
+/*
+ * This is the BMI calculator program. It takes two inputs (double) and uses 4 seperate methods
+ * to determine the users BMI.
+ *
+ *  Title: BMI Calculator
+ */
 
 public class LabUnit3 {
 
@@ -34,6 +41,7 @@ public class LabUnit3 {
         }
     }
 
+    // Main Program
     public static void main(String[] args) {
 
         System.out.print("\nEnter your weight in pounds: ");
