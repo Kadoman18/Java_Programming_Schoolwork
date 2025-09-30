@@ -1,4 +1,4 @@
-package javaprogramming;
+package edu.cscc;
 
 public class Main {
 

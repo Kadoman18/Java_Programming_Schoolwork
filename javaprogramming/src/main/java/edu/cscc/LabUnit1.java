@@ -1,4 +1,4 @@
-package javaprogramming;
+package edu.cscc;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

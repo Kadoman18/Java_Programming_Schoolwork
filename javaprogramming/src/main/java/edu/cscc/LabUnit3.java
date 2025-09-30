@@ -1,4 +1,4 @@
-package javaprogramming;
+package edu.cscc;
 
 import java.util.Scanner;
 // Kaden Breinholt, Tues. Sep. 23rd, Lab 3
